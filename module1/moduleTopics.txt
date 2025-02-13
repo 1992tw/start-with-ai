@@ -1,0 +1,7 @@
+### Module Topics
+- Introduction to Artificial Intelligence
+- History and Evolution of AI
+- Key AI Tools and Technologies
+- Basics of Machine Learning
+- Introduction to Neural Networks
+- AI Ethics and Real-World Applications
