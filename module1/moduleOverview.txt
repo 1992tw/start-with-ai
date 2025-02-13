@@ -1,3 +1,3 @@
 ### Module Overview: Start with AI
 
-This module provides a foundational understanding of Artificial Intelligence (AI), covering key concepts, tools, and applications. Designed for beginners, it begins with the basics of AI, exploring historical context, and gradually progresses to more complex aspects like machine learning and neural networks. By the end of this course, learners will have a comprehensive introduction to AI suitable for further exploration or application in various fields.
+START ___ This module provides a foundational understanding of Artificial Intelligence (AI), covering key concepts, tools, and applications. Designed for beginners, it begins with the basics of AI, exploring historical context, and gradually progresses to more complex aspects like machine learning and neural networks. By the end of this course, learners will have a comprehensive introduction to AI suitable for further exploration or application in various fields.
