@@ -1,0 +1,6 @@
+### Module Objectives
+- Understand the basic concepts and terminologies of Artificial Intelligence
+- Explore the history and evolution of AI
+- Gain insight into the key technologies and tools used in AI
+- Develop a foundational understanding of machine learning and neural networks
+- Familiarize with ethical considerations and real-world applications of AI
